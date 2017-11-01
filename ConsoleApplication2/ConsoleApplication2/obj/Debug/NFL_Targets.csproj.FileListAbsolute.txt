@@ -1,0 +1,8 @@
+C:\Users\19009637\Google Drive\My Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\NFL_Targets.exe.config
+C:\Users\19009637\Google Drive\My Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\NFL_Targets.exe
+C:\Users\19009637\Google Drive\My Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\NFL_Targets.pdb
+C:\Users\19009637\Google Drive\My Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\HtmlAgilityPack.dll
+C:\Users\19009637\Google Drive\My Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\19009637\Google Drive\My Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\19009637\Google Drive\My Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\NFL_Targets.exe
+C:\Users\19009637\Google Drive\My Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\NFL_Targets.pdb
